@@ -1,14 +1,16 @@
 # **POZOLE ROJO** 
+| ![](https://oasishoteles.com/blog/wp-content/uploads/2021/03/pozole-mexicano.jpg) | **POZOLE ROJO con carne de cerdo, sazonado con orégano y laurel. Y recuerda que ¡No pueden faltar las tostadas!** |
+| --- | --- |
 
-![](https://oasishoteles.com/blog/wp-content/uploads/2021/03/pozole-mexicano.jpg)
-
->POZOLE ROJO con carne de cerdo, sazonado con orégano y laurel. Y recuerda que ¡No pueden faltar las tostadas!
 
 | DIFICULTAD | PORCIONES  | TOTAL |
 | :--------- |:----------:| -----:|
 | Intermedio | 12         | 186 min |
 
-### **Ingredientes**
+
+```Ruby
+Ingredientes
+```
 
 - 5 Litros de agua
 - 1/2 Cebolla cortada a la mitad
@@ -36,3 +38,14 @@
 - 100 Gramos de queso cotija rallado
 
 
+  ```Ruby
+   Cocina el pozole
+  ```
+- [x] Calienta el agua con 1 cebolla, el ajo y la sal, cuando suelte el primer hervor añade el maíz, tapa y cocina por 1 hora con 20 minutos o hasta que esté tierno.
+- [x] Añade la falda, el espinazo de cerdo, el laurel y cocina por 1 hora con 25 minutos o hasta que la carne esté suave. Retira el ajo, la cebolla, las hojas de laurel y la falda de cerdo; deshébrala y reserva.
+  
+  ```Ruby
+    Prepara tu pozole
+  ```
+- [x] Sirve el pozole con la carne, la lechuga, el aguacate, los rábanos, el chicharrón, el orégano, la cebolla morada, los chiles y el jugo de limón.
+  
