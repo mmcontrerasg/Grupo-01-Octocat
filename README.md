@@ -36,7 +36,7 @@ Ingredientes
 - Tostadas de maíz
 - 1 Envase de Media Crema refrigerada (190 g)
 - 100 Gramos de queso cotija rallado
-
+#
 
   ```Ruby
    Cocina el pozole
