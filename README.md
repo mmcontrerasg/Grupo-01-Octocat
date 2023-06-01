@@ -35,4 +35,4 @@
 - 1 Envase de Media Crema refrigerada (190 g)
 - 100 Gramos de queso cotija rallado
 
-### **Preparación**
+
