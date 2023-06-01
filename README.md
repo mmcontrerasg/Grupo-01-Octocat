@@ -7,6 +7,16 @@
 | :--------- |:----------:| -----:|
 | Intermedio | 12         | 186 min |
 
+```Ruby
+Historia del Pozole
+```
+El pozole es un plato tradicional mexicano con una historia que se remonta a la época precolombina. Era considerado un alimento sagrado y ritual en la cultura azteca. Originalmente se preparaba con carne de cerdo y maíz cacahuazintle. Con la llegada de los españoles, se introdujeron nuevos ingredientes y técnicas culinarias. Actualmente, existen variedades de pozole blanco, verde y rojo. El pozole sigue siendo un plato popular en México y representa la rica cultura culinaria del país.
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pozole.jpg/1280px-Pozole.jpg" alt="Plato de Pozole">
+</p>
+
+[Más sobre el Pozole](https://es.wikipedia.org/wiki/Pozole) <br><br>
 
 ```Ruby
 Ingredientes
