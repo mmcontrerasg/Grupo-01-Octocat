@@ -59,3 +59,17 @@ Ingredientes
   ```
 - [x] Sirve el pozole con la carne, la lechuga, el aguacate, los rábanos, el chicharrón, el orégano, la cebolla morada, los chiles y el jugo de limón.
   
+``` Edgar E
+Preparar salsa
+```
+- 5 chiles anchos limpios sin semillas y desvenados.
+- 5 chiles guajillo limpios sin semillas y desvenados.
+- 6 dientes de ajo
+- ½ cebolla mediana picadita.
+- 2 cucharadas soperas de aceite vegetal
+- ½ cucharadita cafetera de orégano mexicano
+- Sal al gusto para sazonar
+
+<p align="center">
+  <img src="https://elhornodelucas.com/wp-content/uploads/2020/03/salsa-pozole-1.jpg">
+</p>
