@@ -1,5 +1,5 @@
 
-# **POZOLE ROJO** 
+# **POZOLE ROJO (Grupo 01)** 
 | ![](https://oasishoteles.com/blog/wp-content/uploads/2021/03/pozole-mexicano.jpg) | ****POZOLE ROJO* con carne de cerdo, sazonado con orégano y laurel. Y recuerda que ¡No pueden faltar las tostadas!*** |
 | --- | --- |
 
